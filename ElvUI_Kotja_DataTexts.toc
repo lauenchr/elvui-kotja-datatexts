@@ -1,0 +1,11 @@
+## Interface: 20504
+## Title: |cff1784d1ElvUI|r Kotjas DataTexts
+## Version: 1.0
+## Notes: Adds various data texts to ElvUI including resilience, melee hit, expertise and armor penetration
+## Author: Kotja
+## RequiredDeps: ElvUI
+
+ElvUI_ResilienceDT.lua
+ElvUI_HitCorrectedDT.lua
+ElvUI_ExpertiseDT.lua
+ElvUI_ArmorPenDT.lua
