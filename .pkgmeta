@@ -1,4 +1,5 @@
 package-as: ElvUI_Kotja_DataTexts
 ignore:
+    - Changelog.md
     - README.md
     - LICENSE
